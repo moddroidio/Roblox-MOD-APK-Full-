@@ -9,19 +9,19 @@ On this mod file, you can access those features:
 
 Welcome to the world’s largest social platform for play. Every month, over 64 million active players come to Roblox to imagine, create, and play together within immersive 3D worlds built by gamers just like you! Already have an account? Log in with your existing Roblox account and play now!
 
-THOUSANDS OF USER-GENERATED GAMES
+* THOUSANDS OF USER-GENERATED GAMES
 Everything in Roblox is user-generated. Players can create the ultimate theme park, compete as a professional race car driver, star in a fashion show, become a superhero, or simply build a dream home and hang out with friends. In this safe and moderated environment, imagination rules supreme.
 
-CROSS-PLATFORM MULTIPLAYER GAMING
+* CROSS-PLATFORM MULTIPLAYER GAMING
 Hang out with your friends and millions of other players across computers, smartphones, tablets, Xbox One, and VR in an infinite variety of games and experiences!
 
-CUSTOMIZABLE AVATARS
+* CUSTOMIZABLE AVATARS
 Take on a new persona and dress up your avatar with an unlimited variety of hats, shirts, faces, gear, and much, much more!
 
-CHAT WITH FRIENDS
+* CHAT WITH FRIENDS
 Connect with your friends online using in-game chat features, private messages, and groups!
 
-FREE-TO-PLAY
+* FREE-TO-PLAY
 Roblox is free to play, but players can also use real money to purchase Robux (our virtual currency on Roblox) to spend on in-game upgrades or accessories for their avatar. Players can also purchase an optional “Builders Club” membership, which provides extra privileges and a daily Robux stipend (tap the “More” tab at the bottom of the screen in the app, and then “Builders Club” to learn more).
 
 PLEASE NOTE: A network connection is required to play. Roblox games work best over Wi-Fi.
